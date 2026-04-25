@@ -1,0 +1,40 @@
+----------------------------
+TOP 15 MOST AMBIGUOUS VERBS - SEASON 1
+----------------------------
+
+break           | Synsets: 59
+breaking        | Synsets: 59
+broken          | Synsets: 59
+makes           | Synsets: 49
+made            | Synsets: 49
+making          | Synsets: 49
+make            | Synsets: 49
+gave            | Synsets: 44
+give            | Synsets: 44
+gives           | Synsets: 44
+giving          | Synsets: 44
+given           | Synsets: 44
+took            | Synsets: 42
+take            | Synsets: 42
+taking          | Synsets: 42
+
+
+----------------------------
+TOP 15 MOST AMBIGUOUS VERBS - SEASON 2
+----------------------------
+
+broke           | Synsets: 59
+break           | Synsets: 59
+breaking        | Synsets: 59
+makes           | Synsets: 49
+made            | Synsets: 49
+making          | Synsets: 49
+make            | Synsets: 49
+give            | Synsets: 44
+giving          | Synsets: 44
+given           | Synsets: 44
+took            | Synsets: 42
+take            | Synsets: 42
+taking          | Synsets: 42
+taken           | Synsets: 42
+takes           | Synsets: 42
